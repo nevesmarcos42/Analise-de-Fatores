@@ -44,16 +44,16 @@ Este projeto realiza uma análise de fatores no conjunto de dados **Iris**, util
    git push origin main
    ```
 
-📝 Uso
+ Uso
 Para utilizar o projeto, carregue o dataset, execute o script principal e visualize os resultados gerados. Você pode ajustar os hiperparâmetros e modelos conforme necessário.
 
-🌟 Contribuições
+ Contribuições
 Contribuições são bem-vindas! Se você tiver sugestões, correções ou melhorias, sinta-se à vontade para abrir issues e enviar pull requests.
 
-📜 Licença
+ Licença
 Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
 
-📞 Contato
+ Contato
 Para mais informações, entre em contato:
 
 Email: nevesmarcos42@gmail.com
